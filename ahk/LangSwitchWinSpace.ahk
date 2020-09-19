@@ -1,0 +1,1 @@
+#Space::PostMessage,0x50,0x2,0,,A ;WM_INPUTLANGCHANGEREQUEST
